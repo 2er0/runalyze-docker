@@ -22,13 +22,13 @@
 ### Config-File
 
 * Copy ./data/config/example-config.yml to ./data/config/config.yml
-* fill out as much as possible, required: Database & Mail parts
+* fillout as much as possible, required: Database & Mail part
 
 ### Get-Version
 
 * download a prebuild version from [Runalyze Releases](https://github.com/Runalyze/Runalyze/releases) to [./data/version](./data/version)
 * extract the the version to [./data/version/runalyze](./data/version/runalyze)
-* fix a bug with Perl and Fit-Files [ISSUE 1701](https://github.com/Runalyze/Runalyze/issues/1701)
+* fix the bug with Perl and Fit-Files [ISSUE 1701](https://github.com/Runalyze/Runalyze/issues/1701)
 
 ### Build-Container
 
@@ -38,10 +38,11 @@
 
 * create a container like others with port mapping or not
 
-## Thank
+## Credits
 
 Thanks to the team of [Runalyze](https://github.com/Runalyze/Runalyze), for the awesome alternative to Garmin Cloud and others.
-[Offical Install Guide](https://docs.runalyze.com/en/latest/installation/4.x.html#ubuntu-debian-distributions)
+
+Runalyze [Offical Install Guide](https://docs.runalyze.com/en/latest/installation/4.x.html#ubuntu-debian-distributions)
 
 ## LICENSE
 
@@ -49,4 +50,4 @@ Thanks to the team of [Runalyze](https://github.com/Runalyze/Runalyze), for the 
 
 ## Contribution
 
-For typos and other issues - pleace create a issue and for fixes -> pull requests
+For typos and other issues - pleace create a issue or pull requests
