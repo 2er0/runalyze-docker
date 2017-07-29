@@ -1,0 +1,5 @@
+config.yml
+data/version/runalyze*
+nodes.md
+traefik.toml 
+srtm_*
